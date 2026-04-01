@@ -1,0 +1,12 @@
+{
+    "name": "F11Fullscreen",
+    "author": "dobryjigrok",
+    "description": "Переключение полноэкранного режима по F11",
+    "version": "1.0.0",
+    "type": "script",
+    "script": "script.js",
+    "tags": [
+        "fullscreen",
+        "utility"
+    ]
+}
