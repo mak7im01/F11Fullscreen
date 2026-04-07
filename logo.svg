@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250" width="250" height="250">
+  <!-- Фон -->
+  <rect width="250" height="250" rx="40" fill="#1a1a1a"/>
+
+  <!-- Экран/монитор -->
+  <rect x="35" y="55" width="180" height="125" rx="14" fill="#2a2a2a" stroke="#c0a0ff" stroke-width="6"/>
+
+  <!-- Стрелки полноэкранного режима -->
+  <!-- Верхний левый -->
+  <polyline points="70,118 70,88 100,88" fill="none" stroke="#c0a0ff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Верхний правый -->
+  <polyline points="180,118 180,88 150,88" fill="none" stroke="#c0a0ff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Нижний левый -->
+  <polyline points="70,132 70,162 100,162" fill="none" stroke="#c0a0ff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Нижний правый -->
+  <polyline points="180,132 180,162 150,162" fill="none" stroke="#c0a0ff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Надпись F11 -->
+  <text x="125" y="218" text-anchor="middle" font-family="monospace" font-size="36" font-weight="bold" fill="#c0a0ff" opacity="0.9">F11</text>
+</svg>

@@ -1,12 +1,17 @@
 {
     "name": "F11Fullscreen",
+    "libraryLogo": "logo.svg",
     "author": "dobryjigrok",
     "description": "Переключение полноэкранного режима по F11",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "type": "script",
     "script": "script.js",
     "tags": [
         "fullscreen",
         "utility"
-    ]
+    ],
+    "image": "logo.svg",
+    "banner": "banner.svg",
+    "installSource": "local",
+    "id": "ed499ffec0d88b5a55d6a3f2"
 }
