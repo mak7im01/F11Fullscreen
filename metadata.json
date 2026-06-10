@@ -1,17 +1,18 @@
 {
     "name": "F11Fullscreen",
-    "libraryLogo": "logo.svg",
+    "libraryLogo": "logo.png",
     "author": "dobryjigrok",
-    "description": "Переключение полноэкранного режима по F11",
-    "version": "1.1.0",
+    "description": "Клавиша F11 — полноэкранный режим",
+    "version": "1.1.1",
     "type": "script",
     "script": "script.js",
     "tags": [
         "fullscreen",
         "utility"
     ],
-    "image": "logo.svg",
-    "banner": "banner.svg",
+    "image": "logo.png",
+    "banner": "banner.png",
     "installSource": "local",
-    "id": "ed499ffec0d88b5a55d6a3f2"
+    "id": "ed499ffec0d88b5a55d6a3f2",
+    "storeAddonId": "b5176ac9-7bab-4866-b467-83e3925e88f4"
 }
